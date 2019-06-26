@@ -15,6 +15,7 @@ Burma.py processes WSXZ packages exported from WorldServer so these can be impor
 INSTRUCTIONS
 
 1- Download the Burmese WSXZ file from WorldServer. This will have a file name similar to "tasks_xxx_mya_MM_xliff.wsxz".
+
 2- Execute Burma.py in the same directory.
 
 NOTE: Burma.py will not work with xliff_projects.zip files. Make sure the file extension is WSXZ.
